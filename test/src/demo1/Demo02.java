@@ -19,4 +19,7 @@ public class Demo02 {
 	public static void h(String args){
 		System.out.println("rilegouel");
 	}
+	public static void fh(String args){
+		System.out.println("rilegouel");
+	}
 }
